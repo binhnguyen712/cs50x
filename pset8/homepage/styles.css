@@ -1,0 +1,109 @@
+/*styles for pages title*/
+.container{
+    max-width: 42rem;
+}
+.switch {
+    align-self: flex-end;
+    margin: 0.9375rem;
+  }
+.inner-switch {
+    display: inline-block;
+    cursor: pointer;
+    border: 1px solid #555;
+    border-radius: 1.25rem;
+    width: 3.125rem;
+    text-align: center;
+    font-size: 1rem;
+    padding: 0.1875rem;
+    margin-left: 0.3125rem;
+  }
+.pages{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    padding-bottom: .5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-align: center;
+}
+.pages span {
+    margin-right: 10px;
+}
+.pages span:last-child {
+    margin-right: 0;
+}
+
+h1{
+    text-align:center;
+    font-size:2rem;
+    line-height:2.5rem;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    font-weight: 600;
+    margin: 0;
+}
+img{
+    color: transparent;
+    padding-top:0rem;
+    margin: 0 auto 0;
+    max-width: 100%;
+    height: auto;
+    display:flex;
+}
+
+.pages span a{
+    text-decoration: none;
+    color: gray;
+}
+.pages span a:hover{
+    color: blue;
+    text-decoration:underline;
+}
+blockquote{
+    text-align:center;
+}
+/* style for index.html */
+.hello{
+    font-size:2rem;
+    font-weight:bold;
+}
+main p a {
+    text-decoration:none;
+    color:blue;
+}
+main p a:hover{
+    text-decoration:underline;
+}
+
+/*style for project.html*/
+.project{
+    font-weight: 700;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1rem;
+}
+
+/* style for hobbies.html*/
+#music{
+    font-weight: 700;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1rem;
+}
+
+
+/* style for contact.html*/
+#contact{
+    font-weight: 700;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1rem;
+}
+ul li a{
+    text-decoration: none;
+}
+ul li a:hover{
+    text-decoration:underline;
+}

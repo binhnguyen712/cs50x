@@ -1,0 +1,6 @@
+Overview:
+AMEX:         15 digit         Start with : 34/37
+MasterCard:   16 digit         Start with : 51/52/53/54/55
+Visa:         13 and 16 digit  Start with : 4
+Luhn's Algorithm: sum the second digit from last to start * 2 () digit > 9 must be separate to 2 digit)
+                  --> sum the result with leftover digit --> if result last digit = 0 ==> valid

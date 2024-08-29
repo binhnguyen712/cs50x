@@ -1,0 +1,31 @@
+HTML tags:
+    1.<img>
+    2.<h1>
+    3.<video>
+    4.<div>
+    5.<span>
+    6.<button>
+    7.<input>
+    8.<p>
+    9.<a>
+    10.<blockquote>
+    11.<header>
+CSS Selectors:
+    1. .(class)
+    2. #(id)
+    3. :hover
+    4. :last-child
+    5. tag
+CSS properties:
+    1. padding
+    2. font-size
+    3. line-height
+    4. margin
+    5. color:
+    6. display:
+    7. text-decoration
+    8. text-align
+    ...
+I chose to use Bootstrap class ="container" to create a container for my introduction, to make
+everything line up nicely in the middle of the page and I use Javascript to add a dark mode button
+which can allow switching page to light or dark mode.

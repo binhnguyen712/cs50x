@@ -1,0 +1,5 @@
+1. By calculating the average energy, valence, and danceability of top 100 songs in the database
+2. Because it assumes that listener feels the same way about all of their top 100 songs but in reality,
+a listener might feel differently about different songs, and their feelings might change over time. A better
+way to calculate the aura might  be to weight the songs by how often literner played them and consider factors
+such as the time of day the song was played, to get more accurate picture of listener's mood
